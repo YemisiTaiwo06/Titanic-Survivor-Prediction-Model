@@ -10,6 +10,6 @@ An understanding of data science
 The whole process is broken down into 3 stages;
 -Data Collection: here is the link to the dataset: 'https://drive.google.com/file/d/1BNrbPshNvrNHiTe1o-Cp1gpJKY-chv5Z/view?usp=sharing'
 -Data Preprocessing: using Numpy(for numerical operations), Panda(for data analysis), Seaborn(for data visualization and exploratory data analysis), and Matplotlib.pyplot ( for data visualization and graphical plotting).
--Model Building: I built the model initially with a logistic regression model, after which I fine- tune it using some hyperparameters.
+-Model Building: I built the model initially with a logistic regression model, after which I fine-tuned it using some hyperparameters.
 I'm open to receiving review/feedback on this project.
 Thank you!
